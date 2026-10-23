@@ -315,7 +315,7 @@ st.markdown("""
 if st.button("🔮 Predict Reservoir Inflow", use_container_width=True):
 
  
-values = np.array([
+    values = np.array([
     inflow_value,
     inflow_value,
     inflow_value,
