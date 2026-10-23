@@ -842,7 +842,7 @@ with kpi4:
             {forecast_value}
         </div>
     </div>
-    """, unsafe_allow_html=True)11:06 16-09-2026
+    """, unsafe_allow_html=True)
 
 
 st.divider()
